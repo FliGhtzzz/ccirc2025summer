@@ -8,6 +8,8 @@
 6. 支付獎金的方法可以是任何合法且不會為難支付的任何方法，e.g. 飲料,貝殼幣,mycard點數,等等。 
 注意: 以上辦法由 flightzz 有最後解釋權。
 # 永久參加連結
-參加者請主動聯繫 flightzz ，並提供 Codeforces 的 handle。
+參加者請主動聯繫 [flightzz](https://discordapp.com/users/822469759441567766) ，並提供 Codeforces 的 handle。
 
 https://codeforces.com/contests/615711
+
+或是主動聯繫 [flightzz](https://discordapp.com/users/822469759441567766 來進入 CCIRC 的 CF-GROUP。
