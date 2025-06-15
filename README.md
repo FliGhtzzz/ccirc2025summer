@@ -12,4 +12,4 @@
 
 https://codeforces.com/contests/615711
 
-或是主動聯繫 [flightzz](https://discordapp.com/users/822469759441567766 來進入 CCIRC 的 CF-GROUP。
+或是主動聯繫 [flightzz](https://discordapp.com/users/822469759441567766) 來進入 CCIRC 的 CF-GROUP。
