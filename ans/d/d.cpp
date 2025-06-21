@@ -6,20 +6,14 @@ using namespace std;
 #define mp make_pair
 #define F first
 #define S second
-static bool cmp(const pair<int, int>& a, const pair<int, int>& b)
-{
+static bool cmp(const pair<int, int>& a, const pair<int, int>& b) {
      if (a.first!=b.first){
         return a.first<b.first;
     }else{
         return a.second>b.second;
     }
 }
-static bool ok(const pair<int, int>& c, const pair<int, int>& d)
-{
-    return c.F < d.F;
-}
-signed main() 
-{
+signed main() {
     int x, a, b;
     cin>>x;
     vector<pair<int, int>> v;
